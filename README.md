@@ -1,5 +1,5 @@
 # HeroesOfPymoli
-
+![Image of pymoli game](https://github.com/pessuman/HeroesOfPymoli/blob/master/Fantasy.jpg)
 
 
 Heroes Of Pymoli is a study about a fantasy game from a fictional gaming company.		
